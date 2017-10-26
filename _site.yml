@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Resume"
       href: about.html
-    - icon: fa-Linkedin fa-lg
+    - text:"Linkedin"
       href:http://www.linkedin.com/in/zhuoli-42240b138/?locale=en_US
     - icon: fa-envelope fa-lg
       href: mailto:<zl2637@cumc.columbia.com>
