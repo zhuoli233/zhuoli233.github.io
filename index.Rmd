@@ -1,7 +1,4 @@
 ---
-title: "Holy cow!"
+title: "Zhuo Li"
 ---
 
-### I have a webpage!
-
-And I can put all kinds of stuff on it!
