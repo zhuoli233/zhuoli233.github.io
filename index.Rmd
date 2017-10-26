@@ -1,4 +1,7 @@
 ---
 title: "Zhuo Li"
 ---
+###This is Zhuo Li's website!
 
+
+<img src="C:/Users/lenovo/Pictures/1.jpg" style="width:75%">
